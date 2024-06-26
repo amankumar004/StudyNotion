@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Lunasima
+- Font Author: Copyright 2023 The Lunasima Project Authors (https://github.com/docrepair-fonts/lunasima-fonts).
+- Font Source: https://fonts.gstatic.com/s/lunasima/v1/wEO5EBvPh9RSOj7JFDSZVPoP_k4XiKvO.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

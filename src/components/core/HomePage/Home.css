@@ -1,0 +1,29 @@
+.custom-border-gradient {
+    border: 1px solid;
+    border-image-source: linear-gradient(121.74deg, rgba(255, 255, 255, 0.22) -7.75%, rgba(255, 255, 255, 0) 37.38%);
+    border-image-slice: 1;
+}
+
+.custom-bg-gradient {
+    background: linear-gradient(111.93deg, rgba(14, 26, 45, 0.24) -1.4%, rgba(17, 30, 50, 0.38) 104.96%);
+}
+
+.custom-bg-gradient2 {
+    background: linear-gradient(123.77deg, #8A2BE2 -6.46%, #FFA500 59.04%, #F8F8FF 124.53%);
+}
+
+.inset-shadow {
+    box-shadow: 0px -1px 0px 0px rgba(255, 255, 255, 0.18) inset;
+}
+
+.custom-inset-shadow {
+    box-shadow: -2px -2px 0px 0px rgba(255, 255, 255, 0.18) inset;
+}
+
+.instructor-inset-shadow{
+    box-shadow: -20px -20px 0px 0px rgba(255, 255, 255, 1);
+}
+
+.custom-bg-grad{
+    background-image: linear-gradient(118.19deg, #1FA2FF -3.62%, #12D8FA 50.44%, #A6FFCB 104.51%);
+}
